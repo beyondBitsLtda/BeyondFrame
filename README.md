@@ -6,8 +6,6 @@
 
 # BeyondFrame
 
-# BeyondFrame Framework
-
 ## 🚀 Objetivo do Framework
 O **BeyondFrame** tem como objetivo fornecer um framework abrangente e flexível para a digitalização de processos, visando otimizar operações, reduzir custos e aumentar a eficiência em diversas organizações. Através de um conjunto de ferramentas e metodologias integradas, o BeyondFrame simplifica a jornada de digitalização, desde a análise inicial dos processos até a implementação e manutenção contínua das soluções.
 
